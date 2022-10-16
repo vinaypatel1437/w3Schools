@@ -75,3 +75,5 @@ git pull origin master
 # Creating new branch in github
 git checkout -b "branch name"
 
+GSSOC :- Google Summer School of Code.
+ 
