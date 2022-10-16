@@ -72,3 +72,6 @@ a. You should have only one index.html file in root of the folder.
 1. Pull from repo.
 git pull origin master
 
+# Creating new branch in github
+git checkout -b "branch name"
+
