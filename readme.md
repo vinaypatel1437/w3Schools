@@ -66,3 +66,9 @@ a. You should have only one index.html file in root of the folder.
 6. Click on save button.
 7. Wait for 5 min.
 8. Refresh the page and click on Visit Site.
+
+
+# Getting the repository changes to local system.
+1. Pull from repo.
+git pull origin master
+
