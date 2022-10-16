@@ -52,3 +52,17 @@ git commit -m "Changed readme.md"
 
 3. pushing all the changes.
 git push origin master
+
+
+# Creating github pages :-
+1. Go to your github repository.
+Requirements :- 
+a. You should have only one index.html file in root of the folder.
+
+2. Go to settings.
+3. Open the Pages tab from left sidebar.
+4. Select option as Deploy from branch
+5. Select your branch as master/ main 
+6. Click on save button.
+7. Wait for 5 min.
+8. Refresh the page and click on Visit Site.
